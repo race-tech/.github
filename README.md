@@ -1,3 +1,3 @@
-# F1 Tech
+# .github
 
-This is an organization about F1.
+The f1-tech public profile.
