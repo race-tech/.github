@@ -1,3 +1,3 @@
-# F1 Tech
+# Race Tech
 
-This is an organization about F1.
+Race tech is an organization about motorsport. It aims to provide databases and APIs to access motorsport historical data.
